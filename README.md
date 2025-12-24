@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dots.gif" width="400" />
 </p>
 
 
