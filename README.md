@@ -5,12 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&center=true&vCenter=true&width=900&lines=Larisukk;Full-stack+Developer;React+%2F+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;.NET+API+%E2%80%A2+.NET+MAUI;Shipping+reliable+apps" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larisukk&theme=tokyo-night&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Larisukk&fontSize=60&fontAlignY=42&desc=Professional%20%7C%20Colorful%20%7C%20Animated&descAlignY=68&color=0:111827,50:4F46E5,100:22C55E" />
 </p>
 
 
