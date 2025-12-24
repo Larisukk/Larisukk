@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Larisukk/Larisukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌸 hi, i'm ✨Larisukk✨ 🌸
 
-Here are some ideas to get you started:
+soft girl energy, hard code skills  
+coding • anime aesthetics • late nights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### about me
+- girl who loves building things  
+- debugging at 3am hits different  
+- animecore vibes, clean code mindset  
+- powered by coffee and playlists  
+
+---
+
+### tech
+languages:    Java · TypeScript · C · Python · VHDL  
+frontend:     React · MUI · Tailwind  
+backend:      Spring Boot · Django · .NET  
+tools:        Git · Docker · Postman · Linux  
+
+---
+
+### rules
+- clean code > fast code  
+- comments matter  
+- pink doesn’t mean weak  
+
+---
+
+anime nights.  
+focused commits.
+
+</div>
