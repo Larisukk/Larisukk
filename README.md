@@ -10,6 +10,18 @@
 
 
 <p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180
+    &text=✨+Larisukk+Portfolio+✨
+    &fontAlign=50&fontAlignY=40
+    &desc=professional+%E2%80%A2+animated+vibes
+    &color=0:111827,50:4F46E5,100:22C55E
+    &animation=twinkling"
+  />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Larisukk">
     <img src="https://img.shields.io/badge/GitHub-Larisukk-111827?style=flat&logo=github&logoColor=white" />
   </a>
@@ -82,12 +94,4 @@
 
 ---
 
-## Palette control (how to “make your profile another color”)
-GitHub itself won’t let you **re-skin your profile UI**, but you *can* lock a visual palette by:
-- using one **stats theme** (example: `tokyonight`) everywhere,
-- choosing a consistent **banner gradient** (the capsule above),
-- using shields badges with fixed hex colors.
 
-If you want, tell me **2–3 exact hex colors** you want (or say “gray + indigo only”), and I’ll lock every badge/banner/widget to that palette.
-
-<sub>Setup tip: create a public repo named <b>Larisukk</b> and put this as <code>README.md</code> to make it your profile README.</sub>
