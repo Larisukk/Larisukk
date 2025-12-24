@@ -16,7 +16,10 @@
   <img src="https://komarev.com/ghpvc/?username=Larisukk&style=flat&color=4F46E5" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
+</p>
+
 
 ## Featured repos
 
@@ -42,7 +45,10 @@
 - **Repo:** https://github.com/Larisukk/Java-SQL
 - **Notes:** Maven + OpenJDK + `mysql.connector.java` (per repo README)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
+</p>
+
 
 ## Metrics (animated + clean)
 <p align="center">
@@ -58,7 +64,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larisukk&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
+</p>
+
 
 ## Animations (optional but dope)
 ### Contribution snake (needs a workflow)
