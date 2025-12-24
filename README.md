@@ -20,7 +20,7 @@
 
 ## Featured repos
 
-### 🛒 Marketplace (full-stack)
+### 🛒 Marketplace (full-stack) WIP
 - **Repo:** https://github.com/Larisukk/marketplace
 - **Structure:** `backend/` + `frontend/` + `docker/`  
 - **Quick start (Docker):**
@@ -29,7 +29,7 @@
   docker compose up --build
   ```
 
-### 🧩 PC Builder (API + Mobile)
+### 🧩 PC Builder (API + Mobile) WIP
 - **Repo:** https://github.com/Larisukk/pcbuilder_app
 - **Structure:** `backend/Pcbuilder.Api` + `mobile/Pcbuilder.Mobile` + `infra/`  
 - **Tech:** C# (.NET API) + .NET MAUI mobile + Docker setup
