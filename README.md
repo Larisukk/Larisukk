@@ -3,9 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&center=true&vCenter=true&width=880&lines=Full-stack+developer;React+%2F+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;C%23+%E2%80%A2+.NET+API+%E2%80%A2+.NET+MAUI;Shipping+reliable+apps+with+clean+architecture" />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Projects%20%26%20Builds&fontAlign=50&fontAlignY=38&desc=Engineering%20with%20intent&descAlign=50&descAlignY=65&color=0:111827,50:4F46E5,100:0EA5E9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&center=true&vCenter=true&width=900&lines=Larisukk;Full-stack+Developer;React+%2F+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;.NET+API+%E2%80%A2+.NET+MAUI;Shipping+reliable+apps" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larisukk&theme=tokyo-night&hide_border=true" />
