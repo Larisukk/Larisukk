@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&center=true&vCenter=true&width=880&lines=Full-stack+developer;React+%2F+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;C%23+%E2%80%A2+.NET+API+%E2%80%A2+.NET+MAUI;Shipping+reliable+apps+with+clean+architecture" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=%E2%98%86%20Welcome%20to%20my%20repo%20arc%20%E2%98%86&fontAlign=50&fontAlignY=35&desc=code%20%7C%20coffee%20%7C%20chaos&descAlign=50&descAlignY=60" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=Larisukk&fontAlign=50&fontAlignY=55&desc=clean%20builds%20%7C%20sharp%20shipping&descAlign=50&descAlignY=78&color=0:111827,100:4F46E5" />
+
 
 <p align="center">
   <a href="https://github.com/Larisukk">
