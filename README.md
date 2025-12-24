@@ -26,11 +26,10 @@
     &animation=bluepink"
   />
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Larisukk&desc=Professional%20%7C%20Colorful%20%7C%20Animated&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=65&fontSize=70&descSize=22&color=0:111827,50:4F46E5,100:22C55E&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
 </p>
-
-
 
 
 ##         Featured repos
