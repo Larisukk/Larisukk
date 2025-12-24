@@ -18,12 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=Larisukk&style=flat&color=4F46E5" />
 </p>
 
+
+
+##         Featured repos
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="animated separator" />
 </p>
-
-
-## Featured repos
 
 ### 🛒 Marketplace (full-stack) WIP
 - **Repo:** https://github.com/Larisukk/marketplace
