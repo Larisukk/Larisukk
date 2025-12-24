@@ -1,36 +1,42 @@
 <div align="center">
 
-# 🌸 hi, i'm ✨Larisukk✨ 🌸
+# 🌙 hi, i'm Larisukk
 
-soft girl energy, hard code skills  
-coding • anime aesthetics • late nights
-
----
-
-### about me
-- girl who loves building things  
-- debugging at 3am hits different  
-- animecore vibes, clean code mindset  
-- powered by coffee and playlists  
+coding mostly at night  
+quiet focus. clean commits.
 
 ---
 
-### tech
-languages:    Java · TypeScript · C · Python · VHDL  
-frontend:     React · MUI · Tailwind  
-backend:      Spring Boot · Django · .NET  
-tools:        Git · Docker · Postman · Linux  
+### about
+- building things that last  
+- calm over hype  
+- long sessions, low light  
 
 ---
 
-### rules
-- clean code > fast code  
-- comments matter  
-- pink doesn’t mean weak  
+### stack
+languages   Java · TypeScript · C · Python · VHDL  
+frontend    React · MUI · Tailwind  
+backend     Spring Boot · Django · .NET  
+tools       Git · Docker · Postman · Linux  
 
 ---
 
-anime nights.  
-focused commits.
+### principles
+- readable over clever  
+- fewer dependencies  
+- stability > novelty  
+
+---
+
+### current mode
+learning  
+refactoring  
+headphones on  
+
+---
+
+no noise  
+just work
 
 </div>
