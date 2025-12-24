@@ -9,16 +9,6 @@
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=180
-    &text=✨+Larisukk+Portfolio+✨
-    &fontAlign=50&fontAlignY=40
-    &desc=professional+%E2%80%A2+animated+vibes
-    &color=0:111827,50:4F46E5,100:22C55E
-    &animation=twinkling"
-  />
-</p>
 
 
 <p align="center">
@@ -29,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=600&lines=▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬" />
 </p>
 
 
