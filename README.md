@@ -20,11 +20,13 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=bar
-    &color=0:111827,50:4F46E5,100:8B5CF6
-    &height=20
-  " />
+    src="https://capsule-render.vercel.app/api?type=gradient
+    &height=6
+    &color=0:111827,50:4F46E5,100:22C55E
+    &animation=bluepink"
+  />
 </p>
+
 
 
 
