@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&center=true&vCenter=true&width=880&lines=Full-stack+developer;React+%2F+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;C%23+%E2%80%A2+.NET+API+%E2%80%A2+.NET+MAUI;Shipping+reliable+apps+with+clean+architecture" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=Larisukk&fontAlign=50&fontAlignY=55&desc=clean%20builds%20%7C%20sharp%20shipping&descAlign=50&descAlignY=78&color=0:111827,100:4F46E5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Larisukk&fontAlign=50&fontAlignY=38&desc=Projects%20%E2%80%A2%20Full-stack%20%E2%80%A2%20After%20hours&descAlign=50&descAlignY=64&color=0:0B1020,50:4F46E5,100:94A3B8" />
 
 
 <p align="center">
