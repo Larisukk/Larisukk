@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Larisukk&fontSize=64&fontAlignY=55&desc=indigo%20rain%20vibes&descAlignY=78&color=0:111827,100:4F46E5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Larisukk&fontSize=58&fontAlignY=40&desc=build%20%7C%20ship%20%7C%20repeat&descAlignY=66&color=0:0B1020,50:4F46E5,100:111827" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Larisukk">
