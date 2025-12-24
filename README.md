@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=190&text=Larisukk&fontSize=56&fontAlignY=52&descAlignY=78&color=0:111827,100:4F46E5" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=190&text=✧｡ﾟ⋆｡✧Larisukk✧｡ﾟ⋆｡✧&fontSize=56&fontAlignY=52&descAlignY=78&color=0:111827,100:4F46E5" />
 </p>
 
 
