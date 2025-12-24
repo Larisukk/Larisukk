@@ -1,4 +1,4 @@
-# ✧｡ﾟ⋆｡✧  **Larisukk**  ✧｡ﾟ⋆｡✧
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=750&center=true&vCenter=true&width=880&lines=Full-stack+developer;React+%2F+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL;C%23+%E2%80%A2+.NET+API+%E2%80%A2+.NET+MAUI;Shipping+reliable+apps+with+clean+architecture" />
