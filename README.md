@@ -18,6 +18,14 @@
   <img src="https://komarev.com/ghpvc/?username=Larisukk&style=flat&color=4F46E5" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=bar
+    &color=0:111827,50:4F46E5,100:8B5CF6
+    &height=20
+  " />
+</p>
+
 
 
 ##         Featured repos
