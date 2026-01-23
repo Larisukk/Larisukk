@@ -35,7 +35,7 @@
 
 ##         Featured repos
 
-### 🛒 Marketplace (full-stack) WIP
+### 🛒 Marketplace (full-stack) 
 - **Repo:** https://github.com/Larisukk/marketplace
 - **Structure:** `backend/` + `frontend/` + `docker/`  
 - **Quick start (Docker):**
