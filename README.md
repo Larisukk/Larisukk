@@ -63,7 +63,7 @@
 
 
 
-## Metrics (animated + clean)
+## Metrics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Larisukk&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Larisukk&theme=tokyonight&hide_border=true" />
@@ -80,19 +80,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/line.gif" width="100%" />
 </p>
-
-
-## Animations (optional but dope)
-### Contribution snake (needs a workflow)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Larisukk/Larisukk/output/snake.svg" alt="snake animation" />
-</p>
-
-### Metrics card (animated)
-<p align="center">
-  <img src="https://metrics.lecoq.io/Larisukk?template=classic&config.timezone=Europe%2FBucharest&config.animated=true&base.header=0&base.activity=1&languages=1&followup=1" />
-</p>
-
----
 
 
