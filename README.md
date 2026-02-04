@@ -44,11 +44,6 @@
   docker compose up --build
   ```
 
-### 🧩 PC Builder (API + Mobile) WIP
-- **Repo:** https://github.com/Larisukk/pcbuilder_app
-- **Structure:** `backend/Pcbuilder.Api` + `mobile/Pcbuilder.Mobile` + `infra/`  
-- **Tech:** C# (.NET API) + .NET MAUI mobile + Docker setup
-
 ### 📱 PoliHack (TypeScript mobile app)
 - **Repo:** https://github.com/Larisukk/polihack
 - **Tech:** TypeScript app with a `server/` folder + `src/` app code + `assets/`
